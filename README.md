@@ -1,7 +1,7 @@
 # hello-world
 Base Repository for ideas and starting.
 
-Call me Xtian, I've programmed in Python - SQL - and also some Java before, but unfortunately have been unable to hold onto that knowledge due to some health issues(I experienced a TBI in 2015 sustaining some long-term memory & mental problems. Well and better, striving to be the best I can now).
+Call me Xtian, I've programmed in Python - SQL - and also some Java before, but unfortunately have been unable to hold onto that knowledge due to some health issues(I experienced a TBI in 2015 sustaining some long-term memory & brain problems. Well and better, striving to be the best I can now).
 
 After being away from programming for 4+ months I'm diving headfirst back into it with fundementals & basics. 
 
